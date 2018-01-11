@@ -1,0 +1,26 @@
+/*adding padding to the form*/
+form {
+	padding: 10px 25px;
+	max-width: 730px;
+}
+/*adding a class for correct answers*/
+.correct {
+	color: #009900;
+	text-decoration: underline;
+}
+/*adding a class for incorrect answers*/
+.incorrect {
+	color: #cc3300;
+	font-size: 1.5em;
+}
+/*changing the font and size of the h1 header*/
+h1 {
+	font-size: 45px;
+	font-family: 'Cinzel', serif;
+}
+/*adding a background image to the page*/
+body {
+	background-image: url("../img/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
